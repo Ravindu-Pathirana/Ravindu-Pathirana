@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node js, Springboot, Angular**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, Node js, Springboot, Angular, Java, Python**
 
 - 📫 How to reach me **ravindup.23@cse.mrt.ac.lk**
 
