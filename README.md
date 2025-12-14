@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Pathirana</h1>
-<h3 align="center">A passionate Computer Science Undergraduate from Srilanka</h3>
+<h3 align="center">A passionate Computer Science & Engineering Undergraduate from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu-pathirana&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu-pathirana" /> </p>
 
