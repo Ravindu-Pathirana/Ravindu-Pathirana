@@ -8,6 +8,10 @@ I enjoy building practical projects, learning new technologies, and applying eng
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu-pathirana&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu-pathirana" /> </p>
+
+---
+
 ## 🔍 About Me
 - 🌱 Currently learning **React, Node.js, Spring Boot, Angular**
 - 💡 Interested in **Full-Stack Development & System Design**
@@ -59,11 +63,17 @@ I enjoy building practical projects, learning new technologies, and applying eng
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-pathirana &show_icons=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ravindu-pathirana&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-pathirana &layout=compact" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-pathirana&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
