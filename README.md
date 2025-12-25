@@ -63,12 +63,11 @@ I enjoy building practical projects, learning new technologies, and applying eng
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ravindu-pathirana&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-pathirana&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravindu-pathirana&layout=compact" />
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-pathirana&layout=compact" />
 </p>
 
 ---
