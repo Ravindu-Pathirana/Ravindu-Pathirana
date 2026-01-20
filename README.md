@@ -62,13 +62,16 @@ I enjoy building practical projects, learning new technologies, and applying eng
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-pathirana&show_icons=true" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravindu-pathirana&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=8" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-pathirana&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&bg_color=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=8" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-pathirana&layout=compact" />
-</p>
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-pathirana&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=8&langs_count=6" alt="Top Languages" />
+
+</div>
 
 ---
 
