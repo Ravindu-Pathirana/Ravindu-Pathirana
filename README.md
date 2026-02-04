@@ -3,7 +3,7 @@
 🎓 **Computer Science & Engineering Undergraduate**  
 📍 University of Moratuwa, Sri Lanka  
 
-I am a motivated undergraduate with a strong interest in **software engineering, full-stack development, and backend systems**.  
+I am a motivated undergraduate with a strong interest in **Software Engineering, Full-Stack Development, Backend Systems, Machine Learning, AI, and Data Science**.  
 I enjoy building practical projects, learning new technologies, and applying engineering concepts to real-world problems.
 
 ---
