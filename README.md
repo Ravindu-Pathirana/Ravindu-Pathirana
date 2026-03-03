@@ -77,6 +77,7 @@ I enjoy building practical projects, learning new technologies, and applying eng
 ## 🤝 Let's Connect
 - 📧 **Email:** ravindup.23@cse.mrt.ac.lk
 - 💻 **GitHub:** https://github.com/ravindu-pathirana
+- 🧠 **Kaggle:** https://www.kaggle.com/uom230467r
 
 ---
 
