@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravindu Pathirana
 
-🎓 **[Computer Science & Engineering Undergraduate](https://github.com/Ravindu-Pathirana/Machine_Learning_Tutorial/archive/refs/heads/main.zip)**  
+🎓 **Computer Science & Engineering Undergraduate**  
 📍 University of Moratuwa, Sri Lanka  
 
 I am a motivated undergraduate with a strong interest in **Software Engineering, Full-Stack Development, Backend Systems, Machine Learning, AI, and Data Science**.  
