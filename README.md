@@ -16,7 +16,7 @@ I enjoy building practical projects, learning new technologies, and applying eng
 - 🌱 Currently learning **React, Node.js, Spring Boot, Angular**
 - 💡 Interested in **Full-Stack Development & System Design**
 - 💬 Ask me about **Java, Python, JavaScript, React, Node.js**
-- 📫 Reach me at: **ravindup.23@cse.mrt.ac.lk**
+- 📫 Reach me at: **https://ravindu-pathirana.github.io/Portfolio/**
 
 ---
 
