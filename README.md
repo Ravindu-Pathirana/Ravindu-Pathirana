@@ -62,13 +62,13 @@ I enjoy building practical projects, learning new technologies, and applying eng
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ravindu-Pathirana&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ravindu-Pathirana&show_icons=true&theme=light&hide_border=true&count_private=true" alt="GitHub stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ravindu-Pathirana&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ravindu-Pathirana&layout=compact&theme=light&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindu-Pathirana&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ravindu-Pathirana&theme=light&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
